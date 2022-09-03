@@ -18,7 +18,7 @@
 // NOVABA G-Suite
 
 export const environment = {
-  production: false,
+  production: true,
   firebase: {
     apiKey: "AIzaSyCxKE2SsBVjG-RA1uv54KgcFI6-Z0-GdKc",
     authDomain: "nvba-6bd35.firebaseapp.com",
