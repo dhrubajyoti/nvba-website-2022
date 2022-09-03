@@ -4,9 +4,14 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "build": "ng build --prod --output-hashing=all",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "buildp": "ng build --base-href /nvbaweb/ --deploy-url /nvbaweb/",
+    "buildunder": "ng build --prod --base-href /nvbaweb/ --output-hashing=all",
+    "withoutCache": "ng build --prod --base-href /nvbaweb/ --output-hashing=all",
+    "prodBuild": "ng build --prod --output-hashing=all"
   },
   "private": true,
   "dependencies": {
