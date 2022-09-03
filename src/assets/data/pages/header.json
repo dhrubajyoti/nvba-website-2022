@@ -1,0 +1,92 @@
+[
+    {
+        "pageId": "1",
+        "pageName": "Home",
+        "pageLink": "home",
+        "tag": "",
+        "description": "",
+        "child": null
+    },
+    {
+        "pageId": "2",
+        "pageName": "About Us",
+        "pageLink": "about",
+        "tag": "",
+        "description": "",
+        "child": [{
+            "pageId": "21",
+            "pageName": "Executive Committee",
+            "pageLink": "team",
+            "tag": "",
+            "description": "",
+            "child": null
+        },
+        {
+            "pageId": "22",
+            "pageName": "History",
+            "pageLink": "history",
+            "tag": "",
+            "description": "",
+            "child": null
+        },
+        {
+            "pageId": "23",
+            "pageName": "Our Constitution",
+            "pageLink": "constitution",
+            "tag": "",
+            "description": "",
+            "child": null
+        }]
+    },
+    {
+        "pageId": "3",
+        "pageName": "Dashboard",
+        "pageLink": "dashboard",
+        "tag": "",
+        "description": "",
+        "child": null
+    },
+    {
+        "pageId": "4",
+        "pageName": "Gallery",
+        "pageLink": "#",
+        "tag": "",
+        "description": "",
+        "child": [
+            {
+                "pageId": "31",
+                "pageName": "Image Gallery",
+                "pageLink": "imagegallery",
+                "tag": "",
+                "description": "",
+                "child": null
+            },
+            {
+                "pageId": "32",
+                "pageName": "Ameyaa 2020",
+                "pageLink": "ameyaa2020",
+                "tag": "",
+                "description": "",
+                "child": null
+            }
+        ]
+    },
+    
+    {
+        "pageId": "5",
+        "pageName": "Archive",
+        "pageLink": "archive",
+        "tag": "",
+        "description": "",
+        "child": null
+    },
+    {
+        "pageId": "6",
+        "pageName": "Contact Us",
+        "pageLink": "contactus",
+        "tag": "",
+        "description": "",
+        "child": null
+    }
+
+]

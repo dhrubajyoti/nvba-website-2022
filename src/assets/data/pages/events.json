@@ -1,0 +1,35 @@
+[
+    {
+        "eventId":1,
+        "eventName": "Durga Puja",
+        "eventDate": "September 30th, 2022",
+        "eventEndDate": "October 2st, 2022",
+        "eventImage": "./../../../assets/images/gallery/common/durga-puja.jpg",
+        "timming": "10AM - 10PM",
+        "venue": "TTD",
+        "pageLink": "durgapuja",
+        "description": "NVBA is proud to host Durga Puja 2022 For Blissful Three Days Of Puja Celebration."
+    },
+    {
+        "eventId":2,
+        "eventName": "Durga Puja Volunteer Registration",
+        "eventDate": "July 31th, 2022",
+        "eventEndDate": "",
+        "eventImage": "./../../../assets/images/gallery/common/volunteers.jpg",
+        "timming": "4PM - 6PM",
+        "venue": "TTD",
+        "pageLink": "",
+        "description": "NVBA want registed Volunteer for help at Durgapuja."
+    },
+    {
+        "eventId":3,
+        "eventName": "Laxmi Puja",
+        "eventDate": "October 8th, 2022",
+        "eventEndDate": "",
+        "eventImage": "./../../../assets/images/gallery/common/lakshmi-k.jpg",
+        "timming": "5PM - 10PM",
+        "venue": "TTD",
+        "pageLink": "",
+        "description": "NVBA is proud to host Durga Puja 2022 For Blissful Three Days Of Puja Celebration."
+    }
+]

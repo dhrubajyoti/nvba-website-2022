@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "CMCI",
+        "image" : "assets/images/gallery/sponsors/CMCI.png",
+        "dateofDonation" : "Donated Just now",
+        "amount" : "30,000",
+        "cause" : "Children Needs Food"
+    },
+    {
+        "name" : "Synchronisys",
+        "image" : "assets/images/gallery/sponsors/sync.png",
+        "dateofDonation" : "Donated Just now",
+        "amount" : "20,000",
+        "cause" : "Children Needs Food"
+    },
+    {
+        "name" : "Synergy",
+        "image" : "assets/images/gallery/sponsors/synergy.png",
+        "dateofDonation" : "Donated Just now",
+        "amount" : "25,000",
+        "cause" : "Children Needs Food"
+    },
+    {
+        "name" : "Long and Foster -Reema Raju",
+        "image" : "assets/images/gallery/sponsors/realtor.png",
+        "dateofDonation" : "Donated Just now",
+        "amount" : "25,000",
+        "cause" : "Children Needs Food"
+    }
+]

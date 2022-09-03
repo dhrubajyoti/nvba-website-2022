@@ -1,0 +1,28 @@
+[
+    {
+        "homeSliderImageId": "1",
+        "name": "care-1.jpg",
+        "imageLink": "./../../../assets/images/gallery/cares/care-1.jpg",
+        "tag": "",
+        "description": ""
+    },
+    {
+        "homeSliderImageId": "2",
+        "homeSliderImage": "111.jpg",
+        "imageLink": "./../../../assets/images/gallery/common/images-2019/111.jpg",
+        "tag": "",
+        "description": ""
+    },{
+        "homeSliderImageId": "3",
+        "homeSliderImage": "bg_3.jpg",
+        "imageLink": "./../../../assets/images/gallery/common/picnic/picnic-2022.jpg",
+        "tag": "",
+        "description": ""
+    },{
+        "homeSliderImageId": "4",
+        "homeSliderImage": "1.jpg",
+        "imageLink": "./../../../assets/images/gallery/common/images-2016/1.jpg",
+        "tag": "",
+        "description": ""
+    }
+]

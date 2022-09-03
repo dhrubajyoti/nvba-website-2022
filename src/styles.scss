@@ -1,1 +1,166 @@
-/* You can add global styles to this file, and also import other style files */
+// /* You can add global styles to this file, and also import other style files */
+#myTab{
+    a.nav-link{
+     font-size: 0.9rem;
+     padding: 0.3rem .75rem;
+    }
+ 
+ }
+ 
+ table tr, table tr td {
+   font-size: 0.8rem !important;
+   text-align: left;
+  }
+ 
+ @media (min-width: 992px) {
+   .wrapper{
+     margin-top: 74px;
+   }
+ }
+ 
+ .navbar-nav {
+   li{
+     list-style: none;
+     a{
+       color: #909090;
+     }
+   }
+   li:hover{
+     background-color: #f9f9f9;
+     border-radius: 5px 5px 5px 5px;
+     a{
+       color: #181818 !important;
+       text-shadow: none !important;
+     }
+   }
+   
+ }
+ 
+ @media (min-width: 992px) {
+ .dropmenu {
+   position: relative; 
+   display: inline-block;
+ }
+ 
+ .dropmenu-content {
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   min-width: 200px;
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   padding: 10px 20px;
+   border-radius: 0 5px 5px 5px;
+   z-index: 1;
+     a{
+       color:#606060;
+     }
+   margin-top: -5px;
+ }
+ 
+ .dropmenu:hover .dropmenu-content {
+   display: block;
+ }
+ 
+ }
+ 
+ 
+ .white{
+   color: #fff;
+ }
+ 
+ #about .upcomming .icon{
+   border-radius: 0px;
+ }
+ #about .upcomming .about-container .icon-box .icon{
+   border: 0px;
+ }
+ #about .upcomming .about-container .icon-box:hover .icon {
+   background: #fff;
+ }
+ 
+ .upcomming p {
+   color: #556877;
+ }
+ 
+ .smallOrangeHeader{
+   color: #ff8d00;
+   font-size: 0.7em;
+ }
+ 
+ .nav-link {
+   color: #ff8d00;
+ }
+ 
+ 
+ #membership{
+ 
+   #orderHistoryTab, #profileTab {
+     display: none;
+   }
+   #membershipTab{
+     display: block;
+   }
+ 
+ }
+ 
+ #profile{
+ 
+   #orderHistoryTab, #membershipTab {
+     display: none;
+   }
+   #profileTab{
+     display: block;
+   }
+ 
+ }
+ 
+ #orderHistory{
+ 
+   #profileTab, #membershipTab {
+     display: none;
+   }
+   #orderHistoryTab {
+     display: block;
+   }
+ 
+ }
+ 
+ 
+ // @include media-breakpoint-up(sm) { }
+ // @include media-breakpoint-up(md) {  }
+ // @include media-breakpoint-up(lg) {  }
+ // @include media-breakpoint-up(xl) { }
+ // @include media-breakpoint-up(xxl) { ... }
+ 
+ app-cartmember{
+   ul{
+     li{
+       list-style: none;
+       padding: 1rem;
+     }
+   }
+ }
+ 
+ .active{
+   background: 'white';
+   color: brown;
+ }
+ 
+ .tab-content{
+   h4{
+     margin-top: 2rem;
+   }
+   
+ }
+ 
+ app-cartmember ul li {
+   list-style: none;
+   padding: 0rem;
+ }
+ 
+ p{
+   b{
+     color: #181818;
+     font-weight: bold;
+   }
+ }

@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "img_url": "assets/images/ecm/SandipGhosh.png",
+        "img_xurl": "",
+        "designation":"President",
+        "tag": "",
+        "description": "",
+        "display_name": "Sandip Ghosh",
+        "facebook": "https://www.facebook.com/sandip.ghosh.353250/",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "2",
+        "img_url": "assets/images/ecm/Sumanta.png", 
+        "img_xurl": "",
+        "designation":"General Secretary",
+        "tag": "",
+        "description": "0",
+        "display_name": "Sumanta Chakraborty",
+        "facebook": "https://www.facebook.com/sumanta.chakraborty.92/",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "3",
+        "img_url": "assets/images/ecm/DebikaDas.jpg",
+        "img_xurl": "",
+        "designation":"Treasurer",
+        "tag": "",
+        "description": "",
+        "display_name": "Debika Das",
+        "facebook": "https://www.facebook.com/debika.das.58",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "4",
+        "img_url": "assets/images/ecm/Kingshuk.jpg",
+        "img_xurl": "",
+        "designation":"Food",
+        "tag": "",
+        "description": "",
+        "display_name": "Kingshuk Chatterjee",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/kingsuk-chatterjee-a550795/",
+        "website":""
+    },
+    {
+        "id": "5",
+        "img_url": "assets/images/ecm/DhrubaJyoti.png",
+        "img_xurl": "",
+        "designation":"Web Development",
+        "tag": "",
+        "description": "",
+        "display_name": "Dhruba Jyoti Dey",
+        "facebook": "https://www.facebook.com/dhrubajyotidey",
+        "linkedin": "",
+        "website":""
+    },
+    
+    {
+        "id": "7",
+        "img_url": "assets/images/ecm/Debarati.png",
+        "img_xurl": "",
+        "designation":"Cultural Secretary",
+        "tag": "",
+        "description": "",
+        "display_name": "Debarati Bhattacharjee",
+        "facebook": "https://www.facebook.com/debarati.bhattacharjee2",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "6",
+        "img_url": "assets/images/ecm/deb.jpg",
+        "img_xurl": "",
+        "designation":"Fund Raising",
+        "tag": "",
+        "description": "",
+        "display_name": "Debjyoti Bhattacharya",
+        "facebook": "https://www.facebook.com/debjyoti.bhattacharya.16",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "9",
+        "img_url": "assets/images/ecm/banni.jpg",
+        "img_xurl": "",
+        "designation":"Communications",
+        "tag": "",
+        "description": "",
+        "display_name": "Bani Brata Kar",
+        "facebook": "https://www.facebook.com/banibrata.kar",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "10",
+        "img_url": "assets/images/ecm/santanu.jpg",
+        "img_xurl": "",
+        "designation":"Magazine Publication",
+        "tag": "",
+        "description": "",
+        "display_name": "Shantanu Das",
+        "facebook": "https://www.facebook.com/santanu.das.3388",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "11",
+        "img_url": "assets/images/ecm/sujan.png",
+        "img_xurl": "",
+        "designation":"Operations",
+        "tag": "",
+        "description": "",
+        "display_name": "Sujan Ghosh",
+        "facebook": "https://www.facebook.com/sujan.k.ghosh",
+        "linkedin": "",
+        "website":""
+    },
+    {
+        "id": "8",
+        "img_url": "assets/images/ecm/arijit.jpg",
+        "img_xurl": "",
+        "designation":"Operations",
+        "tag": "",
+        "description": "",
+        "display_name": "Arijit Pal",
+        "facebook": "https://www.facebook.com/arijit.pal.9",
+        "linkedin": "",
+        "website":""
+    }
+    
+
+]

@@ -1,0 +1,42 @@
+<div class="mt-4"  >
+    
+    <div *ngIf="!memberValidity" >
+        <div  class="redExpired" > Membership Expired : {{ this.member?.expires }}</div>
+        <button (click)="addToCartobj()" class="btn-get-started w-100 mb-3 mt-2" > Renew Annual Membership ($20) & Enjoy All Programs </button>
+        <div class="flex-column row ">
+            <div style="font-weight: bold; font-size: 1.3em;color: #cccccc; text-align: center;" ><span class="red">*</span><b>Membership Benefits:</b> </div>
+            <ul  style=" color: #cccccc; text-align: center;"> 
+                <li>
+                    Access to year round member only events like kobi pronam, nobo borsho celebrations, annual picnic etc.
+                </li>
+                <li>
+                    Access to early bird discounted tickets.
+                </li>
+                <li>
+                    Enjoy several members only programs.
+                </li>
+                <li>
+                    Can participate/perform in cultural programs.
+                </li>
+                <li>
+                    Registered members have voting rights at the elections.
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div *ngIf="memberValidity" >
+        <div  class=" " style="text-align: center;" >Membership Expiration Date : {{this.member.expires}}</div>
+        <!-- <button (click)="addToCartobj()" class="btn-get-started w-100 mb-5 mt-2" > Renew Annual Membership</button> -->
+
+        <div class=" text-center "  >
+            <!-- <button class="btn-get-userpage text-center "   routerLink="/ordertickets" >Register for Durga Puja 2021</button> -->
+            <!-- <button *ngIf="addMoreKK"  class="btn-get-userpage text-center" routerLink="/addmoretickets" >Add Kavita Krishnamurti Tickets</button>  -->
+            <br />
+            <!-- Registration closed for Durga Puja.  -->
+            <!-- <button class="btn-get-userpage text-center "   routerLink="/ordertickets" >Register for Durga Puja 2021 Darshan & Buy Kavita Krishnamurti Concert Tickets</button> -->
+            <app-carttickets></app-carttickets>
+        </div>
+
+    </div>
+    
+</div>

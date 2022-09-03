@@ -1,0 +1,57 @@
+<div class="wrapper" >
+    <div class="container p-5 " >
+        <div class="displayTable">
+            <div class="displayTableCell text-center row d-flex mb-5">
+                <div class="authBlock col-md-6 align-content-center p-5 ">
+                <h3>Sign Up</h3>
+                <div class="formGroup form-group">
+                <input
+                    type="email"
+                    class="formControl form-control"
+                    placeholder="Email Address"
+                    #userEmail
+                    required
+                />
+                </div>
+                <div class="formGroup form-group">
+                <input
+                    type="password"
+                    class="formControl form-control"
+                    placeholder="Password"
+                    #userPwd
+                    required
+                />
+                </div>
+                <div class="formGroup form-group">
+                <input
+                    type="button"
+                    class="btn btnPrimary"
+                    value="Sign Up"
+                    (click)="authService.SignUp(userEmail.value, userPwd.value)"
+                />
+                </div>
+                <div class="formGroup form-group">
+                <span class="or"><span class="orInner">Or</span></span>
+                </div>
+                <!-- Continue with Google -->
+                <div class="formGroup">
+                <button
+                    type="button"
+                    class="btn googleBtn "
+                    (click)="authService.GoogleAuth()"
+                >
+                    <i class="fab fa-google-plus-g"></i>
+                    Continue with Google
+                </button>
+                </div>
+            </div>
+            <div class="redirectToLogin text-center">
+                <span
+                >Already have an account?
+                <span class="redirect" routerLink="/sign-in">Log In</span></span
+                >
+            </div>
+            </div>
+        </div>
+    </div>    
+</div>>

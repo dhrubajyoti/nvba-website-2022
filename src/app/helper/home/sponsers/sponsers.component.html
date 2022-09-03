@@ -1,0 +1,40 @@
+<section class="ftco-section">
+    <div class="container">
+      <div class="row justify-content-center mb-5 pb-3">
+        <div class="col-md-7 heading-section ftco-animate text-center">
+          <h2 class="mb-4">Proud Sponsers</h2>
+          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        </div>
+      </div>
+      <div class="row d-flex">
+         <div class="col-md-3 m-2 shadow d-flex ftco-animate" *ngFor="let sponser of sponsers " >
+
+            
+              <div class="client-logo">
+                <a href="http://www.c-mci.com/corporate/" target="_blank">
+                  <img src="{{sponser.image}}" class="img-fluid" alt="CMCI"> 
+                </a>
+              </div>
+            
+
+            <!-- <div class="blog-entry align-self-stretch">
+            <a href="" class="block-20" style="background-image: url('{{sponser.image}}');">
+            </a>
+            <div class="text p-4 d-block">
+                <div class="meta mb-3">
+                <div><a href="#">Sept 10, 2018</a></div>
+                <div><a href="#">Admin</a></div>
+                <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+              </div>
+              <h3 class="heading mt-3"><a href="#">{{sponser.name}}</a></h3>
+            
+            </div>
+          </div> -->
+        </div> 
+
+
+
+        
+      </div>
+    </div>
+  </section>

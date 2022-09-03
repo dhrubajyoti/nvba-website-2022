@@ -1,0 +1,66 @@
+[
+    {
+        "name": "NVBA Annual Membership",
+        "description": "NVBA Annual Membership Fees - 2022",
+        "quantity": 1,
+        "price": 20,
+        "tax": 0,
+        "sku": "MM2022YY",
+        "currency": "USD" 
+      },
+    {
+      "name": "Saturday Adult Non-Veg",
+      "description": "Non-Veg ( Chicken Cutlet, Peas Pulao, Chicken Rezala, Chum Chum )",
+      "quantity": 0,
+      "price": 12.50,
+      "tax": 0.00,
+      "sku": "DP202201",
+      "currency": "USD"
+    },
+    {
+        "name": "Saturday Adult Veg",
+        "description": "Veg ( Veg Cutlet, Peas Pulao, Paneer Jalfrezi, Chum Chum )",
+        "quantity": 0,
+        "price": 10.50,
+        "tax": 0.00,
+        "sku": "DP202202",
+        "currency": "USD"
+    },
+    {
+        "name": "Saturday Kids Non-Veg",
+        "description": "Kids Meal ( Pulao Rice, Chicken [2PC] )",
+        "quantity": 0,
+        "price": 7.50,
+        "tax": 0.00,
+        "sku": "DP202203",
+        "currency": "USD"
+    },
+    {
+        "name": "Sunday Adult Non-Veg",
+        "description": "Non-Veg ( Veg Chop, Goat Kacchi Biryani, Balushahi )",
+        "quantity": 0,
+        "price": 14.50,
+        "tax": 0.00,
+        "sku": "DP202204",
+        "currency": "USD"
+      },
+      {
+          "name": "Sunday Adult Veg",
+          "description": "Veg ( Veg Chop, Veg Paneer Biryani, Balushahi )",
+          "quantity": 0,
+          "price": 11,
+          "tax": 0.00,
+          "sku": "DP202205",
+          "currency": "USD"
+      },
+      {
+          "name": "Sunday Kids Non-Veg",
+          "description": "Kids Meal ( Rice, Butter Chicken )",
+          "quantity": 0,
+          "price": 7.50,
+          "tax": 0.00,
+          "sku": "DP20SU06",
+          "currency": "USD"
+      }
+      
+]    
